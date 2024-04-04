@@ -55,8 +55,7 @@ port1 to port1 <br/>
 
 
 ## เปรียบเทียบกราฟที่ได้จากชิ้นงานจริง และ sonnet (port1 to port1)<br/>
--ภาพที่ถ่ายจากเครื่องวัด <br/>
-![IMG_9016](https://github.com/NPeerawat/01205381-2023-2/assets/164756138/6865abd4-776d-41c9-9e6e-defe75750b96) <br/>
+
 -กราฟที่ได้จากชิ้นงาน และ sonnet <br/>
 ![s11](https://github.com/NPeerawat/01205381-2023-2/assets/164756138/806f3920-de5f-49dc-a95f-91b7076d9763) <br/>
 
