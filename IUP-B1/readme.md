@@ -21,10 +21,15 @@ We get abs(W/Wc) - 1 = 0.5 and then we gonna get N = 7
 ## Using Txline to find width and length of C, L, and R
 
 <img width="800" src="Photo/105a.png">
+
 <img width="800" src="Photo/105b.png">
+
 <img width="800" src="Photo/25a.png">
+
 <img width="800" src="Photo/25b.png">
+
 <img width="800" src="Photo/50.png">
+
 <img width="800" src="Photo/newexcel.png">
 
 ## Design PCB by using sonet.
