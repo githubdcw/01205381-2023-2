@@ -37,8 +37,7 @@ We get abs(W/Wc) - 1 = 0.5 and then we gonna get N = 7
 <img width="800" src="Photo/easy.png">
 <img width="800" src="Photo/easy3D.png">
 
-#### EasyEDA link: (https://easyeda.com/editor#id=|2db85e2226504b858ca97ab94e45b8e6)
-
+#### EasyEDA link: https://easyeda.com/editor#id=|2db85e2226504b858ca97ab94e45b8e6
 ## Member
 #### Saranpatr Sriprom 6410551118
 #### Phankorn Bunyanuwat 6410551096
