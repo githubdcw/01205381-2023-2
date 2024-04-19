@@ -48,3 +48,4 @@ We get abs(W/Wc) - 1 = 0.5 and then we gonna get N = 7
 #### Phankorn Bunyanuwat 6410551096
 #### Pruesikarn Sujirapan 6410551088
 #### Athit Samranvedhya 6410554281
+
