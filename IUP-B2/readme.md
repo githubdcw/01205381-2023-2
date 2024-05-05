@@ -24,13 +24,16 @@ We decide to use Zh = 100 ZL = 25 and R0 = 50 and we can calculate the length an
 
 
 
+
 ## Step 3: designed LPF
 
 <img width="502" src="2dsonnet.png">
 
 
 
+
 ## Step 4: design PCB by using EasyEDA
+
 
 <img width="502" src="2deasyeda.png">
 
@@ -39,6 +42,7 @@ We decide to use Zh = 100 ZL = 25 and R0 = 50 and we can calculate the length an
 
 
 EasyEda Link : https://oshwlab.com/natthapon.r/TheFinalProject
+
 
 ## Members
 Krittapas 6410551037

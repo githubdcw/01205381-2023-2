@@ -1,3 +1,25 @@
+<p align="center">
+  <img width="120" height="120" src="Photo/logo.png">
+</p>
+
+<h4 align="center">Transmission Lines Filter Design</h4>
+
+<h4 align="center">YxBanpu Group</h4>
+
+#### Present to
+Asst.Prof. Denchai Worasawate
+Communication Architecture and Devices Laboratory 01205381
+section 450 Semester 2/2023
+
+#### Members
+1. Nattanan Anuwatkasem 6410554176
+2. Akasuk Nithisboonglang 6410554290
+3. Vorapol Cheewawutwatanawith 6410554257
+4. Paramet Kitchanwit 6410551070
+
+
+
+
 ## Step 1: Introduction to Low Pass Filters
 
 Definition: Low Pass Filter (LPF) or High Cut is a frequency filter that allows low-frequency waves to pass through while cutting off higher-frequency waves.
@@ -41,8 +63,8 @@ Case 1: Zh=100Ω, Zl=25Ω<br>
 <img width="502" src="Photo/7.png">
 
 Case 2: Zh=200Ω, Zl=25Ω<br>
-<img width="502" src="Photo/8.png">
-Case 3: Zh=150Ω, Zl=25Ω
+<img width="502" src="Photo/8.png"><br>
+Case 3: Zh=150Ω, Zl=25Ω<br>
 
 <img width="502" src="Photo/9.png">
 
@@ -97,9 +119,3 @@ from netlist simulation in the program It has a value similar to the geometry fo
 
 
 EasyEda Link : [EASYEDA](https://oshwlab.com/akasuk.ni/pcb123456789)
-
-## Members
-1. Nattanan Anuwatkasem 6410554176
-2. Akasuk Nithisboonglang 6410554290
-3. Vorapol Cheewawutwatanawith 6410554257
-4. Paramet Kitchanwit 6410551070
