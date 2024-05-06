@@ -63,7 +63,7 @@ Case 1: Zh=100Ω, Zl=25Ω<br>
 <img width="502" src="Photo/7.png">
 
 Case 2: Zh=200Ω, Zl=25Ω<br>
-<img width="502" src="Photo/8.png">
+<img width="502" src="Photo/8.png"><br>
 Case 3: Zh=150Ω, Zl=25Ω<br>
 
 <img width="502" src="Photo/9.png">
@@ -111,20 +111,33 @@ Graph from geometry
 
 <img width="502" src="Photo/14.png">
 
+## Step 6: Final Data and Graph
+
+Simulation data
+
+<img width="150" src="Experiment_photo/SIM_DATA1.png"><img width="146" src="Experiment_photo/SIM_DATA2.png"><img width="150" src="Experiment_photo/SIM_DATA3.png">
+
+Simulation Graph from data
+<img width="550" src="Experiment_photo/Sim_Graph.jpg">
+
+
+Real Data
+<img width="150" src="Experiment_photo/REAL_DATA1.png">
+<img width="150" src="Experiment_photo/REAL_DATA2.png">
+
+Real Graph from data
+<img width="550" src="Experiment_photo/Real_Graph.jpg">
+
+Comparison of Simulation and Real Graph
+<img width="550" src="Experiment_photo/Compare.png">
+From graph, Cut-off frequency is about 1.6 Ghz which is a little bit drop from requirement 
+(2 GHz) but the cut-off frequency from 2 elements of  the graph are slightly different. 
+
+
 
 ## Conclusion
 
 From an experiment in Filter Design, starting with designing in the Sonnet program first, then designing in the EasyEDA program to order the real board. By experiment Values ​​obtained
-from netlist simulation in the program It has a value similar to the geometry for which it was designed.  
-
+from netlist simulation in the program It has a value similar to the geometry for which it was designed. Then, when the geometry design is finished, it needs to create a real PLC board by using Internet service. When receiving a board, the board need to measured to compare value from real board and simulation.
 
 EasyEda Link : [EASYEDA](https://oshwlab.com/akasuk.ni/pcb123456789)
-<<<<<<< HEAD
-
-## Members
-1. Nattanan Anuwatkasem 6410554176
-2. Akasuk Nithisboonglang 6410554290
-3. Vorapol Cheewawutwatanawith 6410554257
-4. Paramet Kitchanwit 6410551070
-=======
->>>>>>> 45ac1d0e3680a4f58170118eef1dd8a5403b1251
