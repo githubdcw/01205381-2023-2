@@ -71,14 +71,17 @@
 <img width="800" src="Photo/pcb2.jpg">
 
 ## Measure the real PCB board by reading the values ​​through the Putty program and then plotting the graph.
+#### Port 1 to Port 1
 <img width="800" src="Photo/s11.jpg">
+
+#### Port 1 to Port 2
 <img width="800" src="Photo/s22.jpg">
 <img width="800" src="Photo/putty.png">
 
-## Compare graph between sonnet and the real PCB board.
+## Compare graph between sonnet and the actual board.
 <img width="800" src="Photo/รูปภาพ3.jpg">
 
 ## Conclusion.
-#### 
+#### From the low pass filter design experiment, the graphs displayed from the measuring device from the actual board and the graphs simulated in the Sonnet program were found to have slight discrepancies. Because the actual board has a measured size of frequency cut off at 2 GHz equal to -19.83804171 dB, but the board designed by Sonnet has a size of frequency cut off at 2 GHz equal to -8.600978812 dB, which is a size that is not much different. It can be concluded that the actual board can be used and has almost the same performance as the one designed by Sonnet.
 
 
