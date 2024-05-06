@@ -80,6 +80,30 @@ section 450 Semester 2/2023 February 16, 2024
 <img width="502" src="Photo/10.png">
 >>>>>>> 1f34f51ec18c872b3b0fc94e67e1160f48a92311
 
+### 6. Final Data & Graph from Port 2 to 1
+### Simulation Data 
+<img width="502" src="Photo/11.png"><br/>
+### Simulation Graph from Data
+<img width="502" src="Photo/11_1.png"><br/>
+
+### Real Data
+<img width="502" src="Photo/12.png"><br/>
+### Real Graph from Data
+<img width="502" src="Photo/12_1.png"><br/>
+
+### Comparision of Simulation and Real Graph
+<img width="502" src="Photo/13.png"><br/>
+
+## Problem 
+#### Gaps occured between the copper and copper doesn't connect together, which makes it impossible to measure. As pictures below.
+
+<img width="502" src="Photo/14.png"><br/>
+
+<img width="502" src="Photo/15.png"><br/>
+
+## Solution 
+#### Fixed by using a cutter to scrape off the film coating on the board and soldering in the gaps between the copper on the PCB board.
+
 ## Conclusion
 
 The design and implementation of a low-pass filter followed by the PCB layout using TxLine and EasyEDA, They have different results due to the error from the design. However the design of EasyEDA is also designed to be suitable for actual use.
