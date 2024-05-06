@@ -72,7 +72,7 @@
 
 ## Measure the real PCB board by reading the values ​​through the Putty program and then plotting the graph.
 <img width="800" src="Photo/s11.jpg">
-<img width="800" src="Photo/s12.jpg">
+<img width="800" src="Photo/s22.jpg">
 <img width="800" src="Photo/putty.jpg">
 
 ## Compare graph between sonnet and the real PCB board.
