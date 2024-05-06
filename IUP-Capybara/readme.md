@@ -60,8 +60,8 @@ section 450 Semester 2/2023 February 16, 2024
 
 <img width="502" src="Photo/10.png">
 
-### 6. Final Data & Graph
-### Simulation Data
+### 6. Final Data & Graph from Port 2 to 1
+### Simulation Data 
 <img width="502" src="Photo/11.png"><br/>
 ### Simulation Graph from Data
 <img width="502" src="Photo/11_1.png"><br/>
