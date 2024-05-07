@@ -4,7 +4,7 @@
 
 # Lab Report On 
 # Transmission Line Filter Design
-# Group Capybara group
+# Group B2
 
 ### Submitted by
 
