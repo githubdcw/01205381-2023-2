@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="Photo/1.png">
+  <img width="250" src="KU logo.png">
 </p>
 
 # Lab Report On 
@@ -21,6 +21,7 @@ Communication Architecture and Devices Laboratory 01205381 <br/>
 section 450 Semester 2/2023 
 
 ## Design a PCB LC Filter
+##
 
 ## Step 1: How we Design our Low Pass Filter
 
