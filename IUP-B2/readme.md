@@ -22,7 +22,7 @@ section 450 Semester 2/2023
 
 ## Design a PCB LC Filter
 ##
-
+##Experiment
 ## Step 1: How we Design our Low Pass Filter
 
 Our specification of LPF ;  	1. Cut off 2.4GHz
