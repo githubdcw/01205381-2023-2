@@ -71,9 +71,5 @@ We decide to use Zh = 100 ZL = 25 and R0 = 50 and we can calculate the length an
 EasyEda Link : https://oshwlab.com/natthapon.r/TheFinalProject
 
 
-## Members
-Krittapas 6410551037
-Natthapon 6410551053
-Thunwarach 6410554206
-Machaphat 6410554231
-Wiyadarat 6410551100
+## Conclusion
+
