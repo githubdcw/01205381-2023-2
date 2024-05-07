@@ -22,7 +22,7 @@ section 450 Semester 2/2023
 
 ## Design a PCB LC Filter
 ##
-##Experiment
+
 ## Step 1: How we Design our Low Pass Filter
 
 Our specification of LPF ;  	1. Cut off 2.4GHz
@@ -58,8 +58,9 @@ We decide to use Zh = 100 ZL = 25 and R0 = 50 and we can calculate the length an
 
 
 ## Step 4: design PCB by using EasyEDA
-
-
+ 
+## Experiment
+Take the Electrical Length, Impedance and Frequency values obtained from calculations on Excel using a butterworth filter 7 order to create a workpiece in the Sonnet program by finding the size from TXLine.
 
 <img width="502" src="2deasy.png">
 
