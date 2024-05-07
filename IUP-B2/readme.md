@@ -21,7 +21,6 @@ Communication Architecture and Devices Laboratory 01205381 <br/>
 section 450 Semester 2/2023 
 
 ## Design a PCB LC Filter
-##
 
 ## Step 1: How we Design our Low Pass Filter
 
