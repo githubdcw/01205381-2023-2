@@ -68,7 +68,7 @@ We decide to use Zh = 100 ZL = 25 and R0 = 50 and we can calculate the length an
 ## Experiment
 Take the Electrical Length, Impedance and Frequency values obtained from calculations on Excel using a butterworth filter 7 order to create a workpiece in the Sonnet program by finding the size from TXLine.
 
-
+<img width="502" src="2dsonnet.png">
 EasyEda Link : https://oshwlab.com/natthapon.r/TheFinalProject
 
 
