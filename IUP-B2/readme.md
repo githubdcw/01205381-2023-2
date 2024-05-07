@@ -73,4 +73,5 @@ EasyEda Link : https://oshwlab.com/natthapon.r/TheFinalProject
 
 
 ## Conclusion
+  Based on the experiment conducted in Filter Design, initial designs were crafted using the Sonnet program and further refined in the Easy EDA program to match the real-world implementation. Through simulation in the programs, values closely approximating the intended specifications were obtained, albeit with minor deviations in certain areas. Upon analyzing the data from both simulations and real-world observations, it was determined that the filter exhibits a -3 dB cutoff frequency at approximately 2.1 GHz in simulation and 2.08 GHz in reality. Consequently, it can be confidently concluded that the filter performs as intended and is suitable for practical use.
 
